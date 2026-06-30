@@ -1,5 +1,3 @@
-# Customer-Behavior-Analysis
-Interactive Power BI dashboard analyzing customer purchasing behavior and sales trends.
 # 📊 Customer Behavior Analysis Dashboard
 
 A comprehensive **Power BI dashboard** developed to analyze customer purchasing behavior and shopping trends. The dashboard provides valuable insights into customer demographics, sales performance, product preferences, subscription behavior, and payment methods, enabling data-driven business decisions.
